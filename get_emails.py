@@ -1,42 +1,17 @@
-from queue import Empty
-from selenium import webdriver
 from selenium.webdriver.common.by import By
-from selenium.webdriver.common.keys import Keys
 from datetime import datetime
 import pandas as pd
-import numpy as np
 import time
 
+from utils import inicialize_driver, login, roll_page_down, initialize_spreadsheets, get_leads_data_from_spreadsheets
+
 should_get_emails = 20
-
-def inicialize_driver():
-    driver = webdriver.Firefox()
-    driver.get('https://www.linkedin.com/login')
-    time.sleep(2)
-    return driver
-
-def insert_username(driver):
-    username = driver.find_element(By.XPATH, "//input[@name='session_key']")
-    username.send_keys('contato@marcelloinfante.com.br')
-
-def insert_password(driver):
-    password = driver.find_element(By.XPATH, "//input[@name='session_password']")
-    password.send_keys('s!u+X8$?8HUwc!*' + Keys.ENTER)
-
-def login(driver):
-    insert_username(driver)
-    insert_password(driver)
-    time.sleep(5)
 
 def get_leads(driver):
     leads_list = driver.find_element_by_class_name('search-results__result-list')
     leads = leads_list.find_elements_by_class_name('search-results__result-item')
     time.sleep(5)
     return leads
-
-def roll_page_down(driver):
-    body = driver.find_element_by_css_selector('body')
-    body.send_keys(Keys.PAGE_DOWN)
 
 def get_lead_name(lead):
     lead_name = lead.find_element_by_tag_name('dt').find_element_by_tag_name('a')
@@ -88,19 +63,17 @@ def filter_existing_data(leads_data, csv_dataframe):
 
     return filtered_data
 
-def add_leads_data_to_csv(leads_data):
-    csv_dataframe = pd.read_csv('./emails.csv')
-    print(filter_existing_data(leads_data, csv_dataframe))
+def add_leads_data_to_spreadsheets(leads_data):
+    csv_dataframe = get_leads_data_from_spreadsheets()
     filtered_data = filter_existing_data(leads_data, csv_dataframe)
-    dataframe = pd.DataFrame(filtered_data)
-    dataframe.to_csv('./emails.csv', mode='a', header=False, index=False)
-
+    sheet_instance = initialize_spreadsheets()
+    sheet_instance.append_rows(filtered_data)
 
 driver = inicialize_driver()
 
-# login(driver)
+login(driver)
 
-input('Faça o login!')
+# input('Faça o login!')
 
 driver.get('https://www.linkedin.com/sales/search/people/list/saved-leads')
 time.sleep(10)
@@ -140,7 +113,7 @@ try:
             print(leads_data)
 
 
-        add_leads_data_to_csv(leads_data)
+        add_leads_data_to_spreadsheets(leads_data)
         go_to_next_page(driver)
 except:
     print("Finished")
