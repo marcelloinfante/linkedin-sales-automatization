@@ -6559,3 +6559,1541 @@ JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeE
 Exiting due to channel error.
 Exiting due to channel error.
 Exiting due to channel error.
+1643208814356	geckodriver	INFO	Listening on 127.0.0.1:49171
+1643208815145	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile1UFXsx"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1643208825813	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile1UFXsx/search.json.mozlz4", (void 0)))
+1643208837667	Marionette	INFO	Listening on port 34047
+1643208838074	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dro3pdvppmfw6wyu8d9rnyx62, line 6423: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4mykabdtekwq2vuv2ob5w07ha, line 39: unreachable code after return statement
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+(firefox:292485): GLib-GObject-WARNING **: 11:54:13.791: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f38a18fb290' of type 'MaiAtkType139'
+
+(firefox:292485): GLib-GObject-WARNING **: 11:54:13.791: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f38a0afead0' of type 'MaiAtkType139'
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2j40lyt9ifl5p1sy0vq17d1wf, line 7555: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2j40lyt9ifl5p1sy0vq17d1wf, line 7555: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2j40lyt9ifl5p1sy0vq17d1wf, line 7555: unreachable code after return statement
+
+(firefox:292485): GLib-GObject-WARNING **: 11:54:39.286: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f38a013e230' of type 'MaiAtkType139'
+
+(firefox:292485): GLib-GObject-WARNING **: 11:54:43.241: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f389fd51050' of type 'MaiAtkType139'
+
+(firefox:292485): GLib-GObject-WARNING **: 11:54:53.819: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f38a013e590' of type 'MaiAtkType139'
+
+(firefox:292485): GLib-GObject-WARNING **: 11:54:58.028: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f38a013ee90' of type 'MaiAtkType139'
+
+(firefox:292485): GLib-GObject-WARNING **: 11:55:02.360: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f38a013e8f0' of type 'MaiAtkType139'
+
+(firefox:292485): GLib-GObject-WARNING **: 11:55:06.542: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f389fd51650' of type 'MaiAtkType139'
+
+(firefox:292485): GLib-GObject-WARNING **: 11:55:10.669: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f389fd51230' of type 'MaiAtkType139'
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1643208925199	geckodriver	INFO	Listening on 127.0.0.1:59411
+1643208925225	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileQjm62E"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1643208929451	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQjm62E/search.json.mozlz4", (void 0)))
+1643208933744	Marionette	INFO	Listening on port 33131
+1643208933775	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dro3pdvppmfw6wyu8d9rnyx62, line 6423: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4mykabdtekwq2vuv2ob5w07ha, line 39: unreachable code after return statement
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dr6vv6yob8kqrefaf3z4z5ube, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/27gtnqevzqp0v8ftb8hk7oc9q, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/7clzbehzzyw6570aweh9woz1z, line 6: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+(firefox:293214): GLib-GObject-WARNING **: 11:55:46.047: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f8196c4a6b0' of type 'MaiAtkType139'
+
+(firefox:293214): GLib-GObject-WARNING **: 11:55:46.048: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f8194f669b0' of type 'MaiAtkType139'
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2j40lyt9ifl5p1sy0vq17d1wf, line 7555: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2j40lyt9ifl5p1sy0vq17d1wf, line 7555: unreachable code after return statement
+
+(firefox:293214): GLib-GObject-WARNING **: 11:56:23.688: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f8194a50ad0' of type 'MaiAtkType139'
+
+(firefox:293214): GLib-GObject-WARNING **: 11:56:47.287: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f81848f8a70' of type 'MaiAtkType139'
+
+(firefox:293214): GLib-GObject-WARNING **: 11:56:51.468: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f818478f290' of type 'MaiAtkType139'
+
+(firefox:293214): GLib-GObject-WARNING **: 11:56:55.626: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f81847f3b90' of type 'MaiAtkType139'
+
+(firefox:293214): GLib-GObject-WARNING **: 11:56:59.909: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f81847f3bf0' of type 'MaiAtkType139'
+
+(firefox:293214): GLib-GObject-WARNING **: 11:57:04.096: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f81848f8890' of type 'MaiAtkType139'
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1643209655113	geckodriver	INFO	Listening on 127.0.0.1:37839
+1643209655119	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileJWFqgq"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1643209659359	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJWFqgq/search.json.mozlz4", (void 0)))
+1643209663558	Marionette	INFO	Listening on port 41781
+1643209663673	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1643209722603	geckodriver	INFO	Listening on 127.0.0.1:49499
+1643209722612	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilecjKBRL"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1643209726969	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilecjKBRL/search.json.mozlz4", (void 0)))
+1643209731103	Marionette	INFO	Listening on port 36533
+1643209731163	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dro3pdvppmfw6wyu8d9rnyx62, line 6423: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4mykabdtekwq2vuv2ob5w07ha, line 39: unreachable code after return statement
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dr6vv6yob8kqrefaf3z4z5ube, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/27gtnqevzqp0v8ftb8hk7oc9q, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/7clzbehzzyw6570aweh9woz1z, line 6: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2j40lyt9ifl5p1sy0vq17d1wf, line 7555: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2j40lyt9ifl5p1sy0vq17d1wf, line 7555: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2j40lyt9ifl5p1sy0vq17d1wf, line 7555: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1643211358993	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1643211383347	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1643212518775	Marionette	INFO	Stopped listening on port 36533
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643240797691	geckodriver	INFO	Listening on 127.0.0.1:57007
+1643240798705	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilei7qkjR"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1643240802995	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilei7qkjR/search.json.mozlz4", (void 0)))
+1643240807463	Marionette	INFO	Listening on port 37177
+1643240807566	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/es9qfjicfptowiu4c7h5ycffe, line 6450: unreachable code after return statement
+1643240818670	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4qf649t5a8ufaq8253o0s9yq0, line 7555: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4qf649t5a8ufaq8253o0s9yq0, line 7555: unreachable code after return statement
+
+(firefox:370526): GLib-GObject-WARNING **: 20:47:24.146: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f5284767d10' of type 'MaiAtkType139'
+
+(firefox:370526): GLib-GObject-WARNING **: 20:47:28.220: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f528508d470' of type 'MaiAtkType139'
+
+(firefox:370526): GLib-GObject-WARNING **: 20:47:32.300: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f5273b37530' of type 'MaiAtkType139'
+
+(firefox:370526): GLib-GObject-WARNING **: 20:47:46.167: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f5273b37d10' of type 'MaiAtkType139'
+
+(firefox:370526): GLib-GObject-WARNING **: 20:47:56.667: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f5273b37fb0' of type 'MaiAtkType139'
+
+(firefox:370526): GLib-GObject-WARNING **: 20:48:04.640: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f5273b813b0' of type 'MaiAtkType139'
+
+(firefox:370526): GLib-GObject-WARNING **: 20:48:09.051: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f5273b81a10' of type 'MaiAtkType139'
+
+(firefox:370526): GLib-GObject-WARNING **: 20:48:13.165: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f5273b81c50' of type 'MaiAtkType139'
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1643241241918	geckodriver	INFO	Listening on 127.0.0.1:36127
+1643241241925	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile2iDcfu"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1643241245240	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile2iDcfu/search.json.mozlz4", (void 0)))
+1643241249517	Marionette	INFO	Listening on port 41825
+1643241249627	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/es9qfjicfptowiu4c7h5ycffe, line 6450: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8mp0wicla347u5qssqoq9tinb, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/c8sriwscw6p3tx759s9uuj8vt, line 39: unreachable code after return statement
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3nvab6lbkhrrsycxoiag62var, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1mpxmdiybzwjlgcvpm496htk8, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/24ih66y2k9uq8yun724q7vehi, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4qf649t5a8ufaq8253o0s9yq0, line 7555: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4qf649t5a8ufaq8253o0s9yq0, line 7555: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4qf649t5a8ufaq8253o0s9yq0, line 7555: unreachable code after return statement
+
+(firefox:371962): GLib-GObject-WARNING **: 20:55:31.663: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f1e483830b0' of type 'MaiAtkType139'
+
+(firefox:371962): GLib-GObject-WARNING **: 20:55:35.843: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f1e483836b0' of type 'MaiAtkType139'
+
+(firefox:371962): GLib-GObject-WARNING **: 20:55:40.030: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f1e48383a70' of type 'MaiAtkType139'
+
+(firefox:371962): GLib-GObject-WARNING **: 20:55:44.125: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f1e48383350' of type 'MaiAtkType139'
+
+(firefox:371962): GLib-GObject-WARNING **: 20:55:48.348: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f1e47fe66b0' of type 'MaiAtkType139'
+
+(firefox:371962): GLib-GObject-WARNING **: 20:55:52.559: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f1e47fe6f50' of type 'MaiAtkType139'
+
+(firefox:371962): GLib-GObject-WARNING **: 20:55:56.751: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f1e47d99650' of type 'MaiAtkType139'
+
+(firefox:371962): GLib-GObject-WARNING **: 20:56:01.024: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f1e47c761d0' of type 'MaiAtkType139'
+
+(firefox:371962): GLib-GObject-WARNING **: 20:56:05.596: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f1e47c76050' of type 'MaiAtkType139'
+
+(firefox:371962): GLib-GObject-WARNING **: 20:56:09.828: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f1e47c76e90' of type 'MaiAtkType139'
+
+(firefox:371962): GLib-GObject-WARNING **: 20:56:16.036: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f1e47d993b0' of type 'MaiAtkType139'
+
+(firefox:371962): GLib-GObject-WARNING **: 20:56:47.667: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f1e33e70c50' of type 'MaiAtkType139'
+
+(firefox:371962): GLib-GObject-WARNING **: 20:56:47.668: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f1e33e70d70' of type 'MaiAtkType139'
+console.error: "isValidHoverTarget rejected with unexpected reason:"
+console.error: (new TypeError("rule is null", "resource://devtools/client/inspector/rules/utils/utils.js", 186))
+console.error: "isValidHoverTarget rejected with unexpected reason:"
+console.error: (new TypeError("rule is null", "resource://devtools/client/inspector/rules/utils/utils.js", 186))
+
+(firefox:371962): GLib-GObject-WARNING **: 20:57:10.733: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f1e341d3cb0' of type 'MaiAtkType139'
+
+(firefox:371962): GLib-GObject-WARNING **: 20:57:10.733: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f1e341d3d10' of type 'MaiAtkType139'
+1643241457692	geckodriver	INFO	Listening on 127.0.0.1:33253
+1643241457699	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileIRzlMe"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1643241460642	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileIRzlMe/search.json.mozlz4", (void 0)))
+1643241464551	Marionette	INFO	Listening on port 39125
+1643241464645	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1643241466886	Marionette	INFO	Stopped listening on port 41825
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/es9qfjicfptowiu4c7h5ycffe, line 6450: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8mp0wicla347u5qssqoq9tinb, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/c8sriwscw6p3tx759s9uuj8vt, line 39: unreachable code after return statement
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4qf649t5a8ufaq8253o0s9yq0, line 7555: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4qf649t5a8ufaq8253o0s9yq0, line 7555: unreachable code after return statement
+
+(firefox:374301): GLib-GObject-WARNING **: 20:58:16.220: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f26c7704e30' of type 'MaiAtkType139'
+1643241588987	geckodriver	INFO	Listening on 127.0.0.1:51873
+1643241588995	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileNhdlDy"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1643241592098	Marionette	INFO	Marionette enabled
+1643241592323	Marionette	INFO	Stopped listening on port 39125
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNhdlDy/search.json.mozlz4", (void 0)))
+1643241596329	Marionette	INFO	Listening on port 35227
+1643241596444	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/es9qfjicfptowiu4c7h5ycffe, line 6450: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8mp0wicla347u5qssqoq9tinb, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/c8sriwscw6p3tx759s9uuj8vt, line 39: unreachable code after return statement
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4qf649t5a8ufaq8253o0s9yq0, line 7555: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4qf649t5a8ufaq8253o0s9yq0, line 7555: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4qf649t5a8ufaq8253o0s9yq0, line 7555: unreachable code after return statement
+
+(firefox:376050): GLib-GObject-WARNING **: 21:01:11.811: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f261a105530' of type 'MaiAtkType139'
+
+(firefox:376050): GLib-GObject-WARNING **: 21:02:03.244: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f261a31d9b0' of type 'MaiAtkType139'
+
+(firefox:376050): GLib-GObject-WARNING **: 21:02:07.205: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f261a3c3350' of type 'MaiAtkType139'
+
+(firefox:376050): GLib-GObject-WARNING **: 21:02:11.202: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f261a3c3590' of type 'MaiAtkType139'
+
+(firefox:376050): GLib-GObject-WARNING **: 21:02:15.310: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f261a3c3890' of type 'MaiAtkType139'
+
+(firefox:376050): GLib-GObject-WARNING **: 21:02:19.428: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f261a3c3f50' of type 'MaiAtkType139'
+
+(firefox:376050): GLib-GObject-WARNING **: 21:02:23.656: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f261a3d66b0' of type 'MaiAtkType139'
+
+(firefox:376050): GLib-GObject-WARNING **: 21:02:27.817: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f261a3d6350' of type 'MaiAtkType139'
+
+(firefox:376050): GLib-GObject-WARNING **: 21:03:41.775: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f261a3e3650' of type 'MaiAtkType139'
+
+(firefox:376050): GLib-GObject-WARNING **: 21:03:45.795: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f261a3e3fb0' of type 'MaiAtkType139'
+
+(firefox:376050): GLib-GObject-WARNING **: 21:03:49.859: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f261a657710' of type 'MaiAtkType139'
+
+(firefox:376050): GLib-GObject-WARNING **: 21:03:53.874: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f261a69b9b0' of type 'MaiAtkType139'
+
+(firefox:376050): GLib-GObject-WARNING **: 21:03:57.903: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f261a69b710' of type 'MaiAtkType139'
+
+(firefox:376050): GLib-GObject-WARNING **: 21:04:08.425: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f261a69b2f0' of type 'MaiAtkType139'
+
+(firefox:376050): GLib-GObject-WARNING **: 21:04:12.573: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f262a7f4530' of type 'MaiAtkType139'
+
+(firefox:376050): GLib-GObject-WARNING **: 21:04:16.730: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f262a8414d0' of type 'MaiAtkType139'
+
+(firefox:376050): GLib-GObject-WARNING **: 21:04:20.963: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f261a31d470' of type 'MaiAtkType139'
+
+(firefox:376050): GLib-GObject-WARNING **: 21:05:22.953: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f260cb03b30' of type 'MaiAtkType139'
+
+(firefox:376050): GLib-GObject-WARNING **: 21:05:26.968: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f260cb03770' of type 'MaiAtkType139'
+
+(firefox:376050): GLib-GObject-WARNING **: 21:05:30.959: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f260cb03890' of type 'MaiAtkType139'
+
+(firefox:376050): GLib-GObject-WARNING **: 21:05:35.051: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f260cb03410' of type 'MaiAtkType139'
+
+(firefox:376050): GLib-GObject-WARNING **: 21:05:39.402: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f260cb03a10' of type 'MaiAtkType139'
+
+(firefox:376050): GLib-GObject-WARNING **: 21:05:43.499: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f260cbdbb30' of type 'MaiAtkType139'
+
+(firefox:376050): GLib-GObject-WARNING **: 21:05:47.614: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f260cbdb290' of type 'MaiAtkType139'
+
+(firefox:376050): GLib-GObject-WARNING **: 21:05:51.826: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f260cbdb470' of type 'MaiAtkType139'
+
+(firefox:376050): GLib-GObject-WARNING **: 21:05:56.143: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f260cbdb5f0' of type 'MaiAtkType139'
+
+(firefox:376050): GLib-GObject-WARNING **: 21:06:00.290: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f260df03b90' of type 'MaiAtkType139'
+
+(firefox:376050): GLib-GObject-WARNING **: 21:06:04.559: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f260df03950' of type 'MaiAtkType139'
+
+(firefox:376050): GLib-GObject-WARNING **: 21:06:08.856: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f260df03d10' of type 'MaiAtkType139'
+
+(firefox:376050): GLib-GObject-WARNING **: 21:06:13.034: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f260df4f0b0' of type 'MaiAtkType139'
+
+(firefox:376050): GLib-GObject-WARNING **: 21:06:17.205: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f260df4ff50' of type 'MaiAtkType139'
+
+(firefox:376050): GLib-GObject-WARNING **: 21:06:21.495: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f260dfac230' of type 'MaiAtkType139'
+
+(firefox:376050): GLib-GObject-WARNING **: 21:06:25.835: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f260dfac3b0' of type 'MaiAtkType139'
+
+(firefox:376050): GLib-GObject-WARNING **: 21:06:31.980: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f260e01e1d0' of type 'MaiAtkType139'
+
+(firefox:376050): GLib-GObject-WARNING **: 21:07:15.694: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f260e29c710' of type 'MaiAtkType139'
+
+(firefox:376050): GLib-GObject-WARNING **: 21:07:19.698: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f260e29ca10' of type 'MaiAtkType139'
+
+(firefox:376050): GLib-GObject-WARNING **: 21:07:23.690: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f260e49eef0' of type 'MaiAtkType139'
+
+(firefox:376050): GLib-GObject-WARNING **: 21:07:27.695: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f260e5787d0' of type 'MaiAtkType139'
+
+(firefox:376050): GLib-GObject-WARNING **: 21:07:31.833: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f260cb03890' of type 'MaiAtkType139'
+
+(firefox:376050): GLib-GObject-WARNING **: 21:07:35.847: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f260cb03ad0' of type 'MaiAtkType139'
+
+(firefox:376050): GLib-GObject-WARNING **: 21:07:39.993: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f260cb03170' of type 'MaiAtkType139'
+
+(firefox:376050): GLib-GObject-WARNING **: 21:07:44.156: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f260cbdb770' of type 'MaiAtkType139'
+
+(firefox:376050): GLib-GObject-WARNING **: 21:07:48.283: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f260cbdb290' of type 'MaiAtkType139'
+
+(firefox:376050): GLib-GObject-WARNING **: 21:07:52.566: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f260cbdbb90' of type 'MaiAtkType139'
+
+(firefox:376050): GLib-GObject-WARNING **: 21:08:03.299: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f260cb03d10' of type 'MaiAtkType139'
+
+(firefox:376050): GLib-GObject-WARNING **: 21:08:07.440: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f260cbdb110' of type 'MaiAtkType139'
+
+(firefox:376050): GLib-GObject-WARNING **: 21:08:14.695: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f260df03410' of type 'MaiAtkType139'
+
+(firefox:376050): GLib-GObject-WARNING **: 21:08:18.857: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f260dfac650' of type 'MaiAtkType139'
+
+(firefox:376050): GLib-GObject-WARNING **: 21:08:22.973: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f260e01eb30' of type 'MaiAtkType139'
+
+(firefox:376050): GLib-GObject-WARNING **: 21:08:27.150: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f260e4786b0' of type 'MaiAtkType139'
+
+(firefox:376050): GLib-GObject-WARNING **: 21:08:31.554: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f260cad0d70' of type 'MaiAtkType139'
+
+(firefox:376050): GLib-GObject-WARNING **: 21:08:35.873: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f260cb03830' of type 'MaiAtkType139'
+
+(firefox:376050): GLib-GObject-WARNING **: 21:08:40.125: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f260cb03290' of type 'MaiAtkType139'
+
+(firefox:376050): GLib-GObject-WARNING **: 21:08:44.707: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f260cb03e90' of type 'MaiAtkType139'
+
+(firefox:376050): GLib-GObject-WARNING **: 21:08:48.976: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f260cad0ef0' of type 'MaiAtkType139'
+
+(firefox:376050): GLib-GObject-WARNING **: 21:08:53.102: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f260cbdb110' of type 'MaiAtkType139'
+1643244983857	Marionette	INFO	Stopped listening on port 35227
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1643325273168	geckodriver	INFO	Listening on 127.0.0.1:59077
+1643325274147	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilezBE04i"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1643325282847	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilezBE04i/search.json.mozlz4", (void 0)))
+1643325292221	Marionette	INFO	Listening on port 40623
+1643325292462	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/am6t2sneczalal5ma7m2z98oz, line 6450: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/42hzbqt9b60wrce0992me1u9o, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/c8sriwscw6p3tx759s9uuj8vt, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9tjtrxdbqyqe6kek64cgz51av, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/27gtnqevzqp0v8ftb8hk7oc9q, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/7clzbehzzyw6570aweh9woz1z, line 6: unreachable code after return statement
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3nvab6lbkhrrsycxoiag62var, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/46ttkkzq96grwphl4c1gmoz18, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3b0xgg5vppn4tapznmeg31s92, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/f47jrtdjyc5cyi8b09vna9g1r, line 6: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4qf649t5a8ufaq8253o0s9yq0, line 7555: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4qf649t5a8ufaq8253o0s9yq0, line 7555: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1643325672741	geckodriver	INFO	Listening on 127.0.0.1:55823
+1643325672750	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile7qmVZg"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1643325677223	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7qmVZg/search.json.mozlz4", (void 0)))
+1643325681127	Marionette	INFO	Stopped listening on port 40623
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1643325681740	Marionette	INFO	Listening on port 33951
+1643325681808	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/am6t2sneczalal5ma7m2z98oz, line 6450: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/42hzbqt9b60wrce0992me1u9o, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/c8sriwscw6p3tx759s9uuj8vt, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9tjtrxdbqyqe6kek64cgz51av, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/27gtnqevzqp0v8ftb8hk7oc9q, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/7clzbehzzyw6570aweh9woz1z, line 6: unreachable code after return statement
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3nvab6lbkhrrsycxoiag62var, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/46ttkkzq96grwphl4c1gmoz18, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3b0xgg5vppn4tapznmeg31s92, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/f47jrtdjyc5cyi8b09vna9g1r, line 6: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4qf649t5a8ufaq8253o0s9yq0, line 7555: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4qf649t5a8ufaq8253o0s9yq0, line 7555: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+
+(firefox:323719): GLib-GObject-WARNING **: 20:22:20.279: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f27016ddf50' of type 'MaiAtkType139'
+
+(firefox:323719): GLib-GObject-WARNING **: 20:22:20.279: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f27016ddfb0' of type 'MaiAtkType139'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1643327223042	Marionette	INFO	Stopped listening on port 33951
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1643367958349	geckodriver	INFO	Listening on 127.0.0.1:45017
+1643367958356	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileXlymHX"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1643367962806	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXlymHX/search.json.mozlz4", (void 0)))
+1643367967349	Marionette	INFO	Listening on port 37717
+1643367967420	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b9xsdrd0zguz0o2uf5fj51mhs, line 6451: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6ouxuu4jftr92m2oe1dr947ff, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/c5b317rrb3pkjjxrgf4my04ig, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/27gtnqevzqp0v8ftb8hk7oc9q, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/7clzbehzzyw6570aweh9woz1z, line 6: unreachable code after return statement
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9ayzrnals5864b29t4duc7jre, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6roclj1wfytlkuygl4hyy7t8g, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4qf649t5a8ufaq8253o0s9yq0, line 7555: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4qf649t5a8ufaq8253o0s9yq0, line 7555: unreachable code after return statement
+
+(firefox:360472): GLib-GObject-WARNING **: 08:06:49.244: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f266eec4770' of type 'MaiAtkType139'
+
+(firefox:360472): GLib-GObject-WARNING **: 08:06:53.273: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f266eec4890' of type 'MaiAtkType139'
+
+(firefox:360472): GLib-GObject-WARNING **: 08:07:00.305: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f266eec47d0' of type 'MaiAtkType139'
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1643368513170	geckodriver	INFO	Listening on 127.0.0.1:44743
+1643368513179	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileYdANhW"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1643368517958	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileYdANhW/search.json.mozlz4", (void 0)))
+1643368522048	Marionette	INFO	Listening on port 33279
+1643368522165	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b9xsdrd0zguz0o2uf5fj51mhs, line 6451: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6ouxuu4jftr92m2oe1dr947ff, line 6: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1643368721724	geckodriver	INFO	Listening on 127.0.0.1:34017
+1643368721732	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileb6GC8I"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1643368725985	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileb6GC8I/search.json.mozlz4", (void 0)))
+1643368730511	Marionette	INFO	Listening on port 41809
+1643368730589	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b9xsdrd0zguz0o2uf5fj51mhs, line 6451: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6ouxuu4jftr92m2oe1dr947ff, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/c5b317rrb3pkjjxrgf4my04ig, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/27gtnqevzqp0v8ftb8hk7oc9q, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/7clzbehzzyw6570aweh9woz1z, line 6: unreachable code after return statement
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9ayzrnals5864b29t4duc7jre, line 39: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6roclj1wfytlkuygl4hyy7t8g, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4qf649t5a8ufaq8253o0s9yq0, line 7555: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4qf649t5a8ufaq8253o0s9yq0, line 7555: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4qf649t5a8ufaq8253o0s9yq0, line 7555: unreachable code after return statement
+
+(firefox:362611): GLib-GObject-WARNING **: 08:19:33.412: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7efd358effb0' of type 'MaiAtkType139'
+
+(firefox:362611): GLib-GObject-WARNING **: 08:19:40.888: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7efd3598e170' of type 'MaiAtkType139'
+
+(firefox:362611): GLib-GObject-WARNING **: 08:19:48.305: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7efd3598e770' of type 'MaiAtkType139'
+
+(firefox:362611): GLib-GObject-WARNING **: 08:19:52.471: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7efd3598ed10' of type 'MaiAtkType139'
+
+(firefox:362611): GLib-GObject-WARNING **: 08:19:56.870: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7efd3598ee30' of type 'MaiAtkType139'
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1643368898703	geckodriver	INFO	Listening on 127.0.0.1:40201
+1643368898711	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileXmOpwY"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1643368902961	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXmOpwY/search.json.mozlz4", (void 0)))
+1643368907198	Marionette	INFO	Listening on port 33369
+1643368908181	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b9xsdrd0zguz0o2uf5fj51mhs, line 6451: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6ouxuu4jftr92m2oe1dr947ff, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/c5b317rrb3pkjjxrgf4my04ig, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/27gtnqevzqp0v8ftb8hk7oc9q, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/7clzbehzzyw6570aweh9woz1z, line 6: unreachable code after return statement
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9ayzrnals5864b29t4duc7jre, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6roclj1wfytlkuygl4hyy7t8g, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4qf649t5a8ufaq8253o0s9yq0, line 7555: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4qf649t5a8ufaq8253o0s9yq0, line 7555: unreachable code after return statement
+
+(firefox:363405): GLib-GObject-WARNING **: 08:22:49.195: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f97ea426c50' of type 'MaiAtkType139'
+
+(firefox:363405): GLib-GObject-WARNING **: 08:22:53.199: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f97eacdf350' of type 'MaiAtkType139'
+
+(firefox:363405): GLib-GObject-WARNING **: 08:22:57.255: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f97ea426890' of type 'MaiAtkType139'
+
+(firefox:363405): GLib-GObject-WARNING **: 08:23:08.140: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f97ea4269b0' of type 'MaiAtkType139'
+
+(firefox:363405): GLib-GObject-WARNING **: 08:23:12.238: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f97ea426ad0' of type 'MaiAtkType139'
+
+(firefox:363405): GLib-GObject-WARNING **: 08:23:19.777: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f97ea426c50' of type 'MaiAtkType139'
+
+(firefox:363405): GLib-GObject-WARNING **: 08:23:36.020: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f97d93b6110' of type 'MaiAtkType139'
+
+(firefox:363405): GLib-GObject-WARNING **: 08:23:43.836: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f97d93b6770' of type 'MaiAtkType139'
+
+(firefox:363405): GLib-GObject-WARNING **: 08:23:44.494: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f97d93b6b30' of type 'MaiAtkType139'
+
+(firefox:363405): GLib-GObject-WARNING **: 08:24:07.004: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f97d93b63b0' of type 'MaiAtkType139'
+
+(firefox:363405): GLib-GObject-WARNING **: 08:24:08.556: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f97d93b6590' of type 'MaiAtkType139'
+1643369059561	Marionette	INFO	Stopped listening on port 33369
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1643369734733	geckodriver	INFO	Listening on 127.0.0.1:44059
+1643369734740	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilenm4nXD"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1643369738757	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilenm4nXD/search.json.mozlz4", (void 0)))
+1643369742570	Marionette	INFO	Listening on port 41853
+1643369742960	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b9xsdrd0zguz0o2uf5fj51mhs, line 6451: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6ouxuu4jftr92m2oe1dr947ff, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/c5b317rrb3pkjjxrgf4my04ig, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/27gtnqevzqp0v8ftb8hk7oc9q, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/7clzbehzzyw6570aweh9woz1z, line 6: unreachable code after return statement
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9ayzrnals5864b29t4duc7jre, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4qf649t5a8ufaq8253o0s9yq0, line 7555: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4qf649t5a8ufaq8253o0s9yq0, line 7555: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1643370022839	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1643370070799	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1643371987958	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1643372145259	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1643372300797	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1643372461926	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1643372621900	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1643372747194	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1643372911626	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1643372949776	Marionette	INFO	Stopped listening on port 41853
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643372951392	geckodriver::marionette	ERROR	Failed to close browser connection: Transport endpoint is not connected (os error 107)
+1643467825666	geckodriver	INFO	Listening on 127.0.0.1:60455
+1643467826609	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileTEpA3R"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1643467835807	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTEpA3R/search.json.mozlz4", (void 0)))
+1643467845546	Marionette	INFO	Listening on port 43945
+1643467846324	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b9xsdrd0zguz0o2uf5fj51mhs, line 6451: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6ouxuu4jftr92m2oe1dr947ff, line 6: unreachable code after return statement
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4qf649t5a8ufaq8253o0s9yq0, line 7555: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4qf649t5a8ufaq8253o0s9yq0, line 7555: unreachable code after return statement
+
+(firefox:409329): GLib-GObject-WARNING **: 11:51:22.260: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f1ddfb74f50' of type 'MaiAtkType139'
+
+(firefox:409329): GLib-GObject-WARNING **: 11:51:23.160: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f1ddfc091d0' of type 'MaiAtkType139'
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1643468420247	geckodriver	INFO	Listening on 127.0.0.1:60651
+1643468420258	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileCWLTag"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1643468424607	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCWLTag/search.json.mozlz4", (void 0)))
+1643468428957	Marionette	INFO	Listening on port 44489
+1643468429015	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b9xsdrd0zguz0o2uf5fj51mhs, line 6451: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6ouxuu4jftr92m2oe1dr947ff, line 6: unreachable code after return statement
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4qf649t5a8ufaq8253o0s9yq0, line 7555: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4qf649t5a8ufaq8253o0s9yq0, line 7555: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4qf649t5a8ufaq8253o0s9yq0, line 7555: unreachable code after return statement
+
+(firefox:410380): GLib-GObject-WARNING **: 12:00:59.882: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7fb992e7ad10' of type 'MaiAtkType139'
+
+(firefox:410380): GLib-GObject-WARNING **: 12:01:00.475: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7fb992da2950' of type 'MaiAtkType139'
+
+(firefox:410380): GLib-GObject-WARNING **: 12:01:07.024: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7fb992e7abf0' of type 'MaiAtkType139'
+
+(firefox:410380): GLib-GObject-WARNING **: 12:01:07.611: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7fb992e7a3b0' of type 'MaiAtkType139'
+
+(firefox:410380): GLib-GObject-WARNING **: 12:01:11.044: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7fb992e7ae90' of type 'MaiAtkType139'
+
+(firefox:410380): GLib-GObject-WARNING **: 12:01:11.935: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7fb992e7d890' of type 'MaiAtkType139'
+1643468475003	Marionette	INFO	Stopped listening on port 44489
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1643468775843	geckodriver	INFO	Listening on 127.0.0.1:41107
+1643468775852	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileRBAmQs"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1643468780017	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRBAmQs/search.json.mozlz4", (void 0)))
+1643468784070	Marionette	INFO	Listening on port 36895
+1643468784113	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b9xsdrd0zguz0o2uf5fj51mhs, line 6451: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6ouxuu4jftr92m2oe1dr947ff, line 6: unreachable code after return statement
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/c5b317rrb3pkjjxrgf4my04ig, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/27gtnqevzqp0v8ftb8hk7oc9q, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/7clzbehzzyw6570aweh9woz1z, line 6: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4qf649t5a8ufaq8253o0s9yq0, line 7555: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4qf649t5a8ufaq8253o0s9yq0, line 7555: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4qf649t5a8ufaq8253o0s9yq0, line 7555: unreachable code after return statement
+
+(firefox:411139): GLib-GObject-WARNING **: 12:06:56.943: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7ff8c4d861d0' of type 'MaiAtkType139'
+
+(firefox:411139): GLib-GObject-WARNING **: 12:06:57.595: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7ff8c4d86230' of type 'MaiAtkType139'
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1643468855749	geckodriver	INFO	Listening on 127.0.0.1:55203
+1643468855758	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileNnEhqR"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1643468860132	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNnEhqR/search.json.mozlz4", (void 0)))
+1643468863989	Marionette	INFO	Listening on port 41015
+1643468864147	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b9xsdrd0zguz0o2uf5fj51mhs, line 6451: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6ouxuu4jftr92m2oe1dr947ff, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/c5b317rrb3pkjjxrgf4my04ig, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/27gtnqevzqp0v8ftb8hk7oc9q, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/7clzbehzzyw6570aweh9woz1z, line 6: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9ayzrnals5864b29t4duc7jre, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6roclj1wfytlkuygl4hyy7t8g, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4qf649t5a8ufaq8253o0s9yq0, line 7555: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4qf649t5a8ufaq8253o0s9yq0, line 7555: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4qf649t5a8ufaq8253o0s9yq0, line 7555: unreachable code after return statement
+
+(firefox:411600): GLib-GObject-WARNING **: 12:08:21.477: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f824836b950' of type 'MaiAtkType139'
+
+(firefox:411600): GLib-GObject-WARNING **: 12:08:22.095: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f824836b5f0' of type 'MaiAtkType139'
+1643468910766	Marionette	INFO	Stopped listening on port 41015
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1643468911091	geckodriver::marionette	ERROR	Failed to close browser connection: Transport endpoint is not connected (os error 107)
+[2022-01-29T15:08:31Z ERROR glean] Can't persist ping lifetime data: Error { kind: Rkv(IoError(Os { code: 2, kind: NotFound, message: "No such file or directory" })) }
+1643468956534	geckodriver	INFO	Listening on 127.0.0.1:56215
+1643468956543	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileI6x1jl"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1643468960385	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileI6x1jl/search.json.mozlz4", (void 0)))
+1643468964328	Marionette	INFO	Listening on port 43009
+1643468964397	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b9xsdrd0zguz0o2uf5fj51mhs, line 6451: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6ouxuu4jftr92m2oe1dr947ff, line 6: unreachable code after return statement
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/c5b317rrb3pkjjxrgf4my04ig, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/27gtnqevzqp0v8ftb8hk7oc9q, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/7clzbehzzyw6570aweh9woz1z, line 6: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9ayzrnals5864b29t4duc7jre, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6roclj1wfytlkuygl4hyy7t8g, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4qf649t5a8ufaq8253o0s9yq0, line 7555: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4qf649t5a8ufaq8253o0s9yq0, line 7555: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4qf649t5a8ufaq8253o0s9yq0, line 7555: unreachable code after return statement
+
+(firefox:412074): GLib-GObject-WARNING **: 12:09:59.216: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7fa2512523b0' of type 'MaiAtkType139'
+
+(firefox:412074): GLib-GObject-WARNING **: 12:09:59.820: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7fa251252a70' of type 'MaiAtkType139'
+
+(firefox:412074): GLib-GObject-WARNING **: 12:10:08.515: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7fa251110dd0' of type 'MaiAtkType139'
+
+(firefox:412074): GLib-GObject-WARNING **: 12:10:09.091: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7fa251110e90' of type 'MaiAtkType139'
+1643469016775	Marionette	INFO	Stopped listening on port 43009
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1643469017354	geckodriver::marionette	ERROR	Failed to close browser connection: Transport endpoint is not connected (os error 107)
+[2022-01-29T15:10:17Z ERROR glean] Can't persist ping lifetime data: Error { kind: Rkv(IoError(Os { code: 2, kind: NotFound, message: "No such file or directory" })) }
+1643469026137	geckodriver	INFO	Listening on 127.0.0.1:41639
+1643469026144	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileyZG4vY"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1643469030089	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileyZG4vY/search.json.mozlz4", (void 0)))
+1643469033933	Marionette	INFO	Listening on port 38673
+1643469033997	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1643469038470	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b9xsdrd0zguz0o2uf5fj51mhs, line 6451: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6ouxuu4jftr92m2oe1dr947ff, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/c5b317rrb3pkjjxrgf4my04ig, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/27gtnqevzqp0v8ftb8hk7oc9q, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/7clzbehzzyw6570aweh9woz1z, line 6: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4qf649t5a8ufaq8253o0s9yq0, line 7555: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4qf649t5a8ufaq8253o0s9yq0, line 7555: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4qf649t5a8ufaq8253o0s9yq0, line 7555: unreachable code after return statement
+
+(firefox:412572): GLib-GObject-WARNING **: 12:11:06.411: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7fda05631950' of type 'MaiAtkType139'
+
+(firefox:412572): GLib-GObject-WARNING **: 12:11:07.020: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7fda0563b890' of type 'MaiAtkType139'
+
+(firefox:412572): GLib-GObject-WARNING **: 12:11:13.286: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7fda05125cb0' of type 'MaiAtkType139'
+
+(firefox:412572): GLib-GObject-WARNING **: 12:11:13.983: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7fda052a5bf0' of type 'MaiAtkType139'
+
+(firefox:412572): GLib-GObject-WARNING **: 12:11:19.745: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7fda05631110' of type 'MaiAtkType139'
+
+(firefox:412572): GLib-GObject-WARNING **: 12:11:20.443: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7fda05631410' of type 'MaiAtkType139'
+
+(firefox:412572): GLib-GObject-WARNING **: 12:11:26.236: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7fda056312f0' of type 'MaiAtkType139'
+
+(firefox:412572): GLib-GObject-WARNING **: 12:11:38.407: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7fda05631110' of type 'MaiAtkType139'
+1643469101995	Marionette	INFO	Stopped listening on port 38673
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1643469105090	geckodriver::marionette	ERROR	Failed to close browser connection: Transport endpoint is not connected (os error 107)
+1643488982808	geckodriver	INFO	Listening on 127.0.0.1:39869
+1643488983807	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilekPUgzF"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1643488989372	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilekPUgzF/search.json.mozlz4", (void 0)))
+1643488993986	Marionette	INFO	Listening on port 36097
+1643488994069	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b9xsdrd0zguz0o2uf5fj51mhs, line 6451: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6ouxuu4jftr92m2oe1dr947ff, line 6: unreachable code after return statement
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9ayzrnals5864b29t4duc7jre, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6roclj1wfytlkuygl4hyy7t8g, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/c5b317rrb3pkjjxrgf4my04ig, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4qf649t5a8ufaq8253o0s9yq0, line 7555: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4qf649t5a8ufaq8253o0s9yq0, line 7555: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4qf649t5a8ufaq8253o0s9yq0, line 7555: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4qf649t5a8ufaq8253o0s9yq0, line 7555: unreachable code after return statement
+1643489099358	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+
+(firefox:432187): GLib-GObject-WARNING **: 17:45:06.866: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f39bd93dad0' of type 'MaiAtkType139'
+JavaScript error: , line 0: uncaught exception: undefined
+1643489316031	Marionette	INFO	Stopped listening on port 36097
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
