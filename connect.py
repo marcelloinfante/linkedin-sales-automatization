@@ -3,7 +3,7 @@ import time
 from utils import inicialize_driver, login, roll_page_down
 
 leads_urls = 'https://www.linkedin.com/sales/search/people?page=4&query=(filters%3AList((type%3ASENIORITY_LEVEL%2Cvalues%3AList((id%3A10%2Ctext%3AOwner%2CselectionType%3AINCLUDED)%2C(id%3A8%2Ctext%3ACXO%2CselectionType%3AINCLUDED)%2C(id%3A9%2Ctext%3APartner%2CselectionType%3AINCLUDED)))%2C(type%3ACOMPANY_HEADCOUNT%2Cvalues%3AList((id%3AB%2Ctext%3A1-10%2CselectionType%3AINCLUDED)%2C(id%3AC%2Ctext%3A11-50%2CselectionType%3AINCLUDED)%2C(id%3AD%2Ctext%3A51-200%2CselectionType%3AINCLUDED)))%2C(type%3AINDUSTRY%2Cvalues%3AList((id%3A96%2Ctext%3AInformation%2520Technology%2520and%2520Services%2CselectionType%3AINCLUDED)))%2C(type%3AREGION%2Cvalues%3AList((id%3A106057199%2Ctext%3ABrazil%2CselectionType%3AINCLUDED)))))&savedSearchId=50526514&sessionId=DctHq%2FppSxCMPUkwcpAcKg%3D%3D'
-should_connect = 100
+should_connect = int(input("Insira quantas conexões você quer enviar: "))
 
 def get_leads(driver):
     leads_list = driver.find_element_by_class_name("artdeco-list")

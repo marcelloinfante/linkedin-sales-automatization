@@ -4,7 +4,6 @@ import time
 
 from utils import inicialize_driver, login, roll_page_down, initialize_spreadsheets, get_leads_data_from_spreadsheets
 
-should_get_emails = 20
 
 def get_leads(driver):
     leads_list = driver.find_element_by_class_name('search-results__result-list')
