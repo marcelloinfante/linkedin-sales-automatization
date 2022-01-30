@@ -8,11 +8,12 @@ from oauth2client.service_account import ServiceAccountCredentials
 import pandas as pd
 import gspread
 import time
-
+import platform
 
 
 def inicialize_driver():
-    driver = webdriver.Firefox()
+    os_name = platform.system()
+    driver = webdriver.Chrome('./chrome_drivers/chromedriver_linux' if os_name == 'Linux' else './chrome_drivers/chromedriver_win32.exe')
     driver.get('https://www.linkedin.com/login')
     time.sleep(2)
     return driver

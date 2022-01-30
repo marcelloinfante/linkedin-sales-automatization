@@ -1,6 +1,5 @@
 from selenium.webdriver.common.by import By
 from datetime import datetime
-import pandas as pd
 import time
 
 from utils import inicialize_driver, login, roll_page_down, initialize_spreadsheets, get_leads_data_from_spreadsheets
@@ -72,8 +71,6 @@ def add_leads_data_to_spreadsheets(leads_data):
 driver = inicialize_driver()
 
 login(driver)
-
-# input('Faça o login!')
 
 driver.get('https://www.linkedin.com/sales/search/people/list/saved-leads')
 time.sleep(10)
